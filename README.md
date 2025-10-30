@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilverSeptember
 - 👀 I’m interested in modeling, simulation, systems and biomedicine. 
-- 🌱 I’m currently learning bioinformatics and electrical circuits. 
+- 🌱 I’m currently working on complex systems and modeling. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
